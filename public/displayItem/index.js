@@ -34,7 +34,7 @@ const getData = async () => {
         }else{
             pTag.style.color="green";
         } 
-        pTag.textContent = object.name + `(${object.inventory})`;
+        pTag.textContent = object.name + ` (${object.inventory})`;
         let itemcontainerelem = document.getElementById('items-container');
         itemcontainerelem.appendChild(pTag);
     });
