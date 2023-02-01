@@ -56,6 +56,24 @@ The Store was a concept inspired by my family who always looked for Organic Fres
 
 - allow user to edit the data of a specific product (using it’s product ID)
 
+Dependency Installation
+============
+
+Express 
+```bash
+$ npm i express
+```
+
+Mongoose 
+```bash
+$ npm i mongoose
+```
+Dotenv
+```bash
+$ npm i dotenv
+```
+
+
 ## Technologies Used
 - HTML
 - CSS
@@ -74,6 +92,12 @@ These are all the resources I used to help me create my final Store.
 - [MDN](https://developer.mozilla.org/en-US/)
 - [Stack Overflow](https://stackoverflow.com/questions/4747520/simple-css-form-layout)
 
+
+## Show Your Support
+
+Give a ⭐️ if you liked this project!
+
+---
 
 
 
